@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022.12.22 17:36:01.461,=C:\Users\sizni\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022.12.22 19:17:29.106,C:\Users\sizni\Documents\Embarcadero\Studio\Projects\MyRESTApp\RESTApp.fmx=C:\Users\sizni\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2022.12.22 19:17:29.106,C:\Users\sizni\Documents\Embarcadero\Studio\Projects\MyRESTApp\RESTApp.pas=C:\Users\sizni\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022.12.22 19:17:44.560,C:\Users\sizni\Documents\Embarcadero\Studio\Projects\MyRESTApp\MyRestApp.dproj=C:\Users\sizni\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
